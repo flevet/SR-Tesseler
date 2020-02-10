@@ -23,4 +23,4 @@ If you use SR-Tesseler for any capacity in your work, please cite the original S
 
 ### Community and Support
 
-Specific questions about applications and tricks should be posted to the joint forum of related scientific open software projects at https://forum.image.sc.
+Specific questions about applications and tricks should be posted to the joint forum of related scientific open software projects at https://forum.image.sc/tags/tesseler.
