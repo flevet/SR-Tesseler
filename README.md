@@ -20,3 +20,7 @@ If you use SR-Tesseler for any capacity in your work, please cite the original S
 > Levet, F., Hosy, E., Kechkar, A., Butler, C., Beghin, A., Choquet, C., Sibarita, J.B.  
 > **Nature Methods** 2015; 12 (11); 1065-1071.  
 > [10.1038/nmeth.3579](https://doi.org/10.1038/nmeth.3579)
+
+### Community and Support
+
+Specific questions about applications and tricks should be posted to the joint forum of related scientific open software projects at https://forum.image.sc.
